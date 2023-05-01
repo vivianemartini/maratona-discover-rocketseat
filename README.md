@@ -23,10 +23,10 @@ $ cd maratona-discover-rocketseat
 $ Open live server
 ```
 
-## Preview:
+## Preview
 
-<img width="900px" height="500px" src="./assets/maratona-discover.jpg" alt="preview"> 
+![Preview](https://github.com/vivianemartini/maratona-discover-rocketseat/blob/main/assets/maratona-discover.JPG)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/vivianemartini/maratona-discover-rocketseat/blob/main/LICENSE) file for details
